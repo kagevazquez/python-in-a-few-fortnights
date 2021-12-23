@@ -1,2 +1,2 @@
 # python-in-a-fortnight
-Exercises from Learn 
+Exercises from Learn Python The Hard Way
